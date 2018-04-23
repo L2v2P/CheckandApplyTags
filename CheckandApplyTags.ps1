@@ -1,5 +1,5 @@
-#Login to Azure
-Login-AzureRmAccount
+#Login to Azure (not required when using Azure Cloud Shell)
+#Login-AzureRmAccount
 
 #List all Resources within the Subscription
 $Resources = Find-AzureRmResource
